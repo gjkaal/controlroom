@@ -1,0 +1,313 @@
+@font-face {
+    font-family: 'iconEcheclon';
+    src: url('../fonts/iconEcheclon.eot?bu7ri9');
+    src: url('../fonts/iconEcheclon.eot?bu7ri9#iefix') format('embedded-opentype'), 
+    url('../fonts/iconEcheclon.ttf?bu7ri9') format('truetype'), 
+    url('../fonts/iconEcheclon.woff?bu7ri9') format('woff'), 
+    url('../fonts/iconEcheclon.svg?bu7ri9#iconEcheclon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconEcheclon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconEcheclon {
+    font-size: 25px;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+}
+
+.iconEcheclon:hover {
+  text-decoration: none;
+}
+
+.iconEcheclon-center {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    text-align: center;
+    opacity: 0.5;
+}
+.iconEcheclon-center:hover {
+  opacity: 1;
+}
+
+.iconEcheclon-center .iconEcheclon {
+  font-size: 56px;
+  width: auto;
+  height: auto;
+  line-height: 4;
+}
+
+.drop-image-icon .iconEcheclon {
+  font-size: 20px !important;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-add:before {
+  content: "\e900";
+  color: #fff;
+}
+a:hover > .icon-add:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-alarms_card:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-arrow-down:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-arrow-left:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-arrow-right:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-arrow-up:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-arrow-up_black:before {
+  content: "\e907";
+}
+.icon-bin:before {
+  content: "\e908";
+  color: #fff;
+}
+a:hover > .icon-bin:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-brokenconnection:before {
+  content: "\e90a";
+  color: #fff;
+}
+.icon-calendar:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-carrier:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-carrier_performance:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-check-mark:before {
+  content: "\e90e";
+  color: #fff;
+}
+.icon-close:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-close_dark:before {
+  content: "\e910";
+}
+a:hover > .icon-close_dark:before {
+  content: "\e911";
+}
+.icon-confirm:before {
+  content: "\e912";
+  color: #fff;
+}
+a:hover > .icon-confirm:before {
+  content: "\e913";
+  color: #fff;
+}
+.icon-connection:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-consumer:before {
+  content: "\e915";
+  color: #fff;
+}
+.icon-consumer_satisfaction:before {
+  content: "\e916";
+  color: #fff;
+}
+.icon-cross:before {
+  content: "\e917";
+  color: #fff;
+}
+a:hover > .icon-cross:before {
+  content: "\e918";
+  color: #fff;
+}
+.icon-customer:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-data-connection:before {
+  content: "\e91a";
+  color: #fff;
+}
+.icon-drag:before {
+  content: "\e91b";
+  color: #fff;
+}
+.icon-edit:before {
+  content: "\e91c";
+  color: #fff;
+}
+a:hover > .icon-edit:before {
+  content: "\e91d";
+  color: #fff;
+}
+.icon-exportcsv:before {
+  content: "\e91e";
+  color: #fff;
+}
+a:hover > .icon-exportcsv:before {
+  content: "\e91f";
+  color: #fff;
+}
+.icon-filter_dark:before {
+  content: "\e920";
+}
+a:hover > .icon-filter_dark:before {
+  content: "\e921";
+}
+.icon-filter_white:before {
+  content: "\e922";
+  color: #fff;
+}
+a:hover > .icon-filter_white:before {
+  content: "\e923";
+  color: #fff;
+}
+.icon-gear:before {
+  content: "\e924";
+  color: #fff;
+}
+a:hover > .icon-gear:before {
+  content: "\e925";
+  color: #fff;
+}
+.icon-global_settings:before {
+  content: "\e926";
+  color: #fff;
+}
+.icon-information:before {
+  content: "\e927";
+  color: #fff;
+}
+a:hover > .icon-information:before {
+  content: "\e928";
+  color: #fff;
+}
+.icon-invoicing:before {
+  content: "\e929";
+  color: #fff;
+}
+.icon-log-out:before {
+  content: "\e92a";
+  color: #fff;
+}
+a:hover > .icon-log-out:before {
+  content: "\e92b";
+  color: #fff;
+}
+.icon-no-data-connection:before {
+  content: "\e92c";
+  color: #e60000;
+}
+.icon-notifications:before {
+  content: "\e92d";
+  color: #fff;
+}
+a:hover > .icon-notifications:before {
+  content: "\e92e";
+  color: #fff;
+}
+.icon-order:before {
+  content: "\e92f";
+  color: #fff;
+}
+.icon-package:before {
+  content: "\e930";
+  color: #fff;
+}
+.icon-password-reset:before {
+  content: "\e931";
+  color: #fff;
+}
+a:hover > .icon-password-reset:before {
+  content: "\e932";
+  color: #fff;
+}
+.icon-plus:before {
+  content: "\e933";
+  color: #fff;
+}
+.icon-question_dark:before {
+  content: "\e934";
+}
+a:hover > .icon-question_dark:before {
+  content: "\e935";
+}
+.icon-question_white:before {
+  content: "\e936";
+  color: #fff;
+}
+a:hover > .icon-question_white:before {
+  content: "\e937";
+  color: #fff;
+}
+.icon-search:before {
+  content: "\e938";
+  color: #fff;
+}
+.icon-site:before {
+  content: "\e939";
+  color: #fff;
+}
+.icon-site_settings:before {
+  content: "\e93a";
+  color: #fff;
+}
+.icon-time:before {
+  content: "\e93b";
+  color: #fff;
+}
+.icon-warning_red:before {
+  content: "\e93c";
+  color: #e60000;
+}
+.icon-warning_white:before {
+  content: "\e93d";
+  color: #fff;
+}
+.icon-workstation:before {
+  content: "\e93e";
+  color: #fff;
+}

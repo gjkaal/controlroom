@@ -1,0 +1,16 @@
+{
+  "Testing" : {
+    "ssoUrl": "https://localhost:7901",
+    "oAuthApiUrl": "https://localhost:7000",
+    "operationsApiUrl": "https://localhost:7002",
+    "controlApiUrl": "https://localhost:7004",
+    "appPath": "http://localhost:4200"
+  },
+  "Production" : {
+    "ssoUrl": "https://echelon-tst.emea.im:7005",
+    "oAuthApiUrl": "https://echelon-tst.emea.im:7000",
+    "operationsApiUrl": "https://echelon-tst.emea.im:7002",
+    "controlApiUrl": "https://echelon-tst.emea.im:7004",
+    "appPath": "https://echelon-tst.emea.im"
+  }
+}
